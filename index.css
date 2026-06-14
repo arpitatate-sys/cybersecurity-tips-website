@@ -1,0 +1,28 @@
+* {
+    font-family: "Gill Sans", "Lucida Sans", sans-serif;
+    color: #1E1E1E;
+}
+
+body {
+    background-color: #EBEBEB; /* Light gray */
+}
+
+h1 {
+    background-color: #FFCC00; /* Primary yellow */
+    font-size: 70pt;
+    text-align: center;
+    padding: 20px;
+}
+
+h2 {
+    background-color: #BEBEB9; /* Gray */
+    font-size: 38pt;
+    padding: 10px;
+}
+
+p {
+    background-color: #FFFFFF; /* White */
+    font-size: 18pt;
+    padding: 10px;
+    line-height: 1.5;
+}
